@@ -1,5 +1,5 @@
 # Weather APP Using API
 
-- [x] OpenStreetMap (nominatim) to get coordinates
-- [x] Open Meteo to get weather
-- [x] 3 versions: Simple API Usage, GUI, GUI & OOP
+:white_check_mark: OpenStreetMap (nominatim) to get coordinates
+:white_check_mark: Open Meteo to get weather
+:white_check_mark: 3 versions: Simple API Usage, GUI, GUI & OOP
